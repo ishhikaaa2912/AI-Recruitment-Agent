@@ -1,0 +1,8 @@
+openai
+pyautogen
+pdfplumber
+python-dotenv
+streamlit
+PyMuPDF
+python-docx
+google-generativeai
