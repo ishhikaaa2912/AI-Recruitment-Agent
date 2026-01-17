@@ -83,9 +83,7 @@ Uses smtplib to send reports securely.
 
 ⏳ LangGraph/AutoGen integration for autonomy
 
-👨‍💻 Developed By
-Pranay Raj
-AI enthusiast | Python Developer | HR Tech Innovator
+
 
 
 
